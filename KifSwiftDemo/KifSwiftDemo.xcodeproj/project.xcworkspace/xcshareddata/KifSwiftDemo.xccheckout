@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C7A8BD0-6309-4385-9A09-BB493037DD0E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KifSwiftDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C49FE4C5423459038C0CCD104CE45C97211364F3</key>
+		<string>github.com:rsaunders100/KifSwiftDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KifSwiftDemo/KifSwiftDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C49FE4C5423459038C0CCD104CE45C97211364F3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:rsaunders100/KifSwiftDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C49FE4C5423459038C0CCD104CE45C97211364F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C49FE4C5423459038C0CCD104CE45C97211364F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KifSwiftDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
